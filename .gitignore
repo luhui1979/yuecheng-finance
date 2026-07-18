@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.cache/
+captcha_*.png
+futu_proxy.png
