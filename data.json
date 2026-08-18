@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-08-18 05:29:45",
+    "updated": "2026-08-18 05:57:20",
     "mode": "scraper",
     "sources": [
       "新浪财经",
@@ -15,26 +15,26 @@
   "indices": [
     {
       "name": "上证指数",
-      "price": "-0.35",
-      "change": "-97.50%",
+      "price": "-0.09",
+      "change": "-97.39%",
       "direction": "down"
     },
     {
       "name": "深证成指",
-      "price": "-1.31",
+      "price": "-0.89",
       "change": "-99.32%",
       "direction": "down"
     },
     {
       "name": "恒生指数",
-      "price": "25,333.31",
-      "change": "-0.47%",
+      "price": "25,452.66",
+      "change": "+0.00%",
       "direction": "down"
     },
     {
       "name": "恒生科技",
-      "price": "4,688.02",
-      "change": "-1.97%",
+      "price": "4,736.40",
+      "change": "-0.95%",
       "direction": "down"
     }
   ],
@@ -136,13 +136,13 @@
       "img": "img_j5"
     },
     {
-      "title": "伊媒称一艘阿联酋油轮在霍尔木兹海峡被扣押",
+      "title": "晓辰 悦耳女声 试听",
       "source": "金十数据 · 实时",
       "tag": "A股",
       "img": "img_j6"
     },
     {
-      "title": "晓辰 悦耳女声 试听",
+      "title": "云扬 爽朗男声 试听",
       "source": "金十数据 · 实时",
       "tag": "A股",
       "img": "img_j7"
