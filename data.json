@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-08-19 05:30:09",
+    "updated": "2026-08-19 05:59:32",
     "mode": "scraper",
     "sources": [
       "新浪财经",
@@ -15,26 +15,26 @@
   "indices": [
     {
       "name": "上证指数",
-      "price": "-2.08",
+      "price": "-2.33",
       "change": "-97.49%",
       "direction": "down"
     },
     {
       "name": "深证成指",
-      "price": "-4.17",
+      "price": "-4.53",
       "change": "-99.32%",
       "direction": "down"
     },
     {
       "name": "恒生指数",
-      "price": "25,497.02",
-      "change": "+0.10%",
-      "direction": "up"
+      "price": "25,469.56",
+      "change": "-0.01%",
+      "direction": "down"
     },
     {
       "name": "恒生科技",
-      "price": "4,687.32",
-      "change": "-1.09%",
+      "price": "4,675.85",
+      "change": "-1.34%",
       "direction": "down"
     }
   ],
@@ -94,7 +94,7 @@
       "img": "img_e8"
     },
     {
-      "title": "产量走低+多地发涨价函！煤炭板块走强 龙头7月以来涨近40%",
+      "title": "韩股大跌触发熔断 “存储双雄”重挫！背后推手有哪些？",
       "source": "东方财富 · 实时",
       "tag": "A股",
       "img": "img_e9"
