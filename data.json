@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-08-19 04:36:41",
+    "updated": "2026-08-19 05:30:09",
     "mode": "scraper",
     "sources": [
       "新浪财经",
@@ -15,26 +15,26 @@
   "indices": [
     {
       "name": "上证指数",
-      "price": "-1.96",
+      "price": "-2.08",
       "change": "-97.49%",
       "direction": "down"
     },
     {
       "name": "深证成指",
-      "price": "-3.97",
+      "price": "-4.17",
       "change": "-99.32%",
       "direction": "down"
     },
     {
       "name": "恒生指数",
-      "price": "25,533.38",
-      "change": "+0.24%",
+      "price": "25,497.02",
+      "change": "+0.10%",
       "direction": "up"
     },
     {
       "name": "恒生科技",
-      "price": "4,700.55",
-      "change": "-0.82%",
+      "price": "4,687.32",
+      "change": "-1.09%",
       "direction": "down"
     }
   ],
