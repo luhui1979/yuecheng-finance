@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-08-20 19:31:21",
+    "updated": "2026-08-20 20:27:59",
     "mode": "scraper",
     "sources": [
       "新浪财经",
@@ -9,7 +9,7 @@
       "富途牛牛",
       "万得Wind"
     ],
-    "total_articles": 18,
+    "total_articles": 17,
     "deduplication": true
   },
   "indices": [
@@ -88,7 +88,7 @@
       "img": "img_e7"
     },
     {
-      "title": "美股三大指数集体下跌 Moderna跌近25% 存储板块、加密货币概念股逆势走高",
+      "title": "美股三大指数集体收跌 纳指跌1% 存储、光通信板块走强",
       "source": "东方财富 · 实时",
       "tag": "美股",
       "img": "img_e8"
@@ -136,16 +136,10 @@
       "img": "img_j5"
     },
     {
-      "title": "俄乌黑海粮食出口近乎停滞",
-      "source": "金十数据 · 实时",
-      "tag": "A股",
-      "img": "img_j6"
-    },
-    {
       "title": "晓辰 悦耳女声 试听",
       "source": "金十数据 · 实时",
       "tag": "A股",
-      "img": "img_j7"
+      "img": "img_j6"
     }
   ]
 }
