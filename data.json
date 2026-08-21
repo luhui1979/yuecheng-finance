@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-08-21 04:38:09",
+    "updated": "2026-08-21 05:32:15",
     "mode": "scraper",
     "sources": [
       "新浪财经",
@@ -15,26 +15,26 @@
   "indices": [
     {
       "name": "上证指数",
-      "price": "0.00",
-      "change": "-100.00%",
+      "price": "-0.08",
+      "change": "-97.45%",
       "direction": "down"
     },
     {
       "name": "深证成指",
-      "price": "0.63",
+      "price": "0.67",
       "change": "-99.29%",
       "direction": "down"
     },
     {
       "name": "恒生指数",
-      "price": "25,883.24",
-      "change": "+0.72%",
+      "price": "25,890.31",
+      "change": "+0.75%",
       "direction": "up"
     },
     {
       "name": "恒生科技",
-      "price": "4,724.12",
-      "change": "+0.50%",
+      "price": "4,722.21",
+      "change": "+0.46%",
       "direction": "up"
     }
   ],
@@ -94,9 +94,9 @@
       "img": "img_e8"
     },
     {
-      "title": "A50直线拉升！外围传来三大利好！",
+      "title": "就在今日！三星据称将公布股东回报计划 规模或达110万亿韩元",
       "source": "东方财富 · 实时",
-      "tag": "A股",
+      "tag": "韩国",
       "img": "img_e9"
     },
     {
