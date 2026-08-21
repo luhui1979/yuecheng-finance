@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-08-21 05:32:15",
+    "updated": "2026-08-21 06:46:41",
     "mode": "scraper",
     "sources": [
       "新浪财经",
@@ -15,26 +15,26 @@
   "indices": [
     {
       "name": "上证指数",
-      "price": "-0.08",
-      "change": "-97.45%",
+      "price": "0.02",
+      "change": "-97.90%",
       "direction": "down"
     },
     {
       "name": "深证成指",
-      "price": "0.67",
+      "price": "0.79",
       "change": "-99.29%",
       "direction": "down"
     },
     {
       "name": "恒生指数",
-      "price": "25,890.31",
-      "change": "+0.75%",
+      "price": "25,955.80",
+      "change": "+1.00%",
       "direction": "up"
     },
     {
       "name": "恒生科技",
-      "price": "4,722.21",
-      "change": "+0.46%",
+      "price": "4,756.65",
+      "change": "+1.19%",
       "direction": "up"
     }
   ],
@@ -94,9 +94,9 @@
       "img": "img_e8"
     },
     {
-      "title": "就在今日！三星据称将公布股东回报计划 规模或达110万亿韩元",
+      "title": "盘中突然异动！多只股票直线涨停 什么情况？",
       "source": "东方财富 · 实时",
-      "tag": "韩国",
+      "tag": "A股",
       "img": "img_e9"
     },
     {
