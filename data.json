@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-08-21 22:24:22",
+    "updated": "2026-08-21 22:51:16",
     "mode": "scraper",
     "sources": [
       "新浪财经",
@@ -9,7 +9,7 @@
       "富途牛牛",
       "万得Wind"
     ],
-    "total_articles": 17,
+    "total_articles": 16,
     "deduplication": true
   },
   "indices": [
@@ -130,16 +130,10 @@
       "img": "img_j5"
     },
     {
-      "title": "恒生指数公司：恒生指数成份股数目将由93只增加至95只",
-      "source": "金十数据 · 实时",
-      "tag": "港股",
-      "img": "img_j6"
-    },
-    {
       "title": "晓辰 悦耳女声 试听",
       "source": "金十数据 · 实时",
       "tag": "A股",
-      "img": "img_j7"
+      "img": "img_j6"
     }
   ]
 }
