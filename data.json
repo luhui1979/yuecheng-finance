@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-08-23 16:52:19",
+    "updated": "2026-08-23 17:20:01",
     "mode": "scraper",
     "sources": [
       "新浪财经",
@@ -9,7 +9,7 @@
       "富途牛牛",
       "万得Wind"
     ],
-    "total_articles": 18,
+    "total_articles": 17,
     "deduplication": true
   },
   "indices": [
@@ -130,22 +130,16 @@
       "img": "img_j4"
     },
     {
-      "title": "阿里巴巴拟配售800亿港元新股 募资全部投向AI",
+      "title": "伊朗大使：美军士气十分低落",
       "source": "金十数据 · 实时",
       "tag": "A股",
       "img": "img_j5"
     },
     {
-      "title": "伊朗大使：美军士气十分低落",
-      "source": "金十数据 · 实时",
-      "tag": "A股",
-      "img": "img_j6"
-    },
-    {
       "title": "晓辰 悦耳女声 试听",
       "source": "金十数据 · 实时",
       "tag": "A股",
-      "img": "img_j7"
+      "img": "img_j6"
     }
   ]
 }
