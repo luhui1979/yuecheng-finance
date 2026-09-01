@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-09-01 12:40:50",
+    "updated": "2026-09-01 17:10:56",
     "mode": "scraper",
     "sources": [
       "新浪财经",
@@ -9,7 +9,7 @@
       "富途牛牛",
       "万得Wind"
     ],
-    "total_articles": 10,
+    "total_articles": 9,
     "deduplication": true
   },
   "indices": [
@@ -76,7 +76,7 @@
       "img": "img_e5"
     },
     {
-      "title": "“黑天鹅”突袭！全球债市猛烈抛售！美股、黄金集体跳水",
+      "title": "美股三大指数集体下跌 半导体板块走低 国际金价走弱、油价走高",
       "source": "东方财富 · 实时",
       "tag": "美股",
       "img": "img_e6"
@@ -92,12 +92,6 @@
       "source": "东方财富 · 实时",
       "tag": "A股",
       "img": "img_e8"
-    },
-    {
-      "title": "基金完整持仓揭晓 四只“隐形重仓股”现身",
-      "source": "东方财富 · 实时",
-      "tag": "A股",
-      "img": "img_e9"
     }
   ]
 }
