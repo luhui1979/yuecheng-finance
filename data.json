@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-09-07 00:43:33",
+    "updated": "2026-09-07 05:43:54",
     "mode": "scraper",
     "sources": [
       "新浪财经",
@@ -9,33 +9,33 @@
       "富途牛牛",
       "万得Wind"
     ],
-    "total_articles": 9,
+    "total_articles": 10,
     "deduplication": true
   },
   "indices": [
     {
       "name": "上证指数",
-      "price": "-0.30",
-      "change": "-97.49%",
+      "price": "0.17",
+      "change": "-97.52%",
       "direction": "down"
     },
     {
       "name": "深证成指",
-      "price": "-0.79",
-      "change": "-99.27%",
+      "price": "2.08",
+      "change": "-99.26%",
       "direction": "down"
     },
     {
       "name": "恒生指数",
-      "price": "25,650.87",
-      "change": "+1.74%",
-      "direction": "up"
+      "price": "25,408.91",
+      "change": "-0.94%",
+      "direction": "down"
     },
     {
       "name": "恒生科技",
-      "price": "4,569.80",
-      "change": "+2.27%",
-      "direction": "up"
+      "price": "4,524.08",
+      "change": "-1.00%",
+      "direction": "down"
     }
   ],
   "news": [
@@ -52,46 +52,52 @@
       "img": "img_e1"
     },
     {
+      "title": "中信证券：房地产行业会走一条去制造业的发展道路",
+      "source": "东方财富 · 实时",
+      "tag": "A股",
+      "img": "img_e2"
+    },
+    {
       "title": "华泰证券港股策略：继续建议将低波红利作为底仓",
       "source": "东方财富 · 实时",
       "tag": "港股",
-      "img": "img_e2"
+      "img": "img_e3"
     },
     {
       "title": "朱雀基金王一昊：“红利为盾，增长为矛”挖掘消费板块机遇",
       "source": "东方财富 · 实时",
       "tag": "A股",
-      "img": "img_e3"
-    },
-    {
-      "title": "博时基金王冠桥： AI波动率放大背景下 高现金流资产配置价值凸显",
-      "source": "东方财富 · 实时",
-      "tag": "A股",
       "img": "img_e4"
     },
     {
-      "title": "未雨绸缪：中央财政3000亿注资8家金融央企",
+      "title": "高盛重磅发声！“易中天”集体大涨 “光”又回来了？(附股)",
       "source": "东方财富 · 实时",
       "tag": "A股",
       "img": "img_e5"
     },
     {
-      "title": "折叠屏“三国杀”本周打响！赛道景气加速兑现 7股业绩有望翻倍(名单)",
+      "title": "国产GPU突遭空袭！摩尔线程20%跌停 沐曦股份大跌",
       "source": "东方财富 · 实时",
       "tag": "A股",
       "img": "img_e6"
     },
     {
-      "title": "华为何庭波再论韬定律 正面拆解3D堆叠散热难题",
+      "title": "掀涨停潮！PCB概念股大涨 下半年盈利有望加速",
       "source": "东方财富 · 实时",
       "tag": "A股",
       "img": "img_e7"
     },
     {
-      "title": "清晨直线拉升！美伊局势突变！国际油价上涨",
+      "title": "折叠屏“三国杀”本周打响！赛道景气加速兑现 7股业绩有望翻倍(名单)",
       "source": "东方财富 · 实时",
-      "tag": "原油",
+      "tag": "A股",
       "img": "img_e8"
+    },
+    {
+      "title": "政策利好+厄尔尼诺！粮食概念持续拉升 两大龙头已翻倍",
+      "source": "东方财富 · 实时",
+      "tag": "A股",
+      "img": "img_e9"
     }
   ]
 }
